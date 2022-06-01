@@ -1,0 +1,5 @@
+seq,cognitive_load,quantifier,target_col,filler_col,t1_n,t2_n,f1_n,f2_n,t1_col,t2_col,f1_col,f2_col,condition_pic,t1_x,t1_y,t2_x,t2_y,f1_x,f1_y,f2_x,f2_y,rep_1,rep_2,rep_3,rep_4
+Q X,low_load,5 dots are,purple,yellow,3,1,6,4,red,red,yellow,yellow,intermediate,300,50,300,250,400,150,200,150,XQ,xq,Xq,xQ
+J B,low_load,More than 4 dots are,green,blue,2,3,5,2,green,green,blue,blue,intermediate,300,50,300,250,400,150,200,150,BJ,bj,Bj,bJ
+B H,low_load,There are,red or blue dots,yellow,2,3,5,2,red,red,yellow,yellow,intermediate,300,50,300,250,400,150,200,150,HB,hb,Hb,hB
+F B,low_load,Fewer than 8 dots are,blue,blue,1,6,3,5,blue,blue,blue,blue,some_target,300,50,300,250,400,150,200,150,BF,bf,Bf,bF
